@@ -35,5 +35,6 @@ In this video, I learned the basics of ruby2D and how to construct the user scre
 The image in the game are from: 
 
 https://opengameart.org/content/asteroids-game-sprites-atlas
+
 https://www.kindpng.com/imgv/wmmowx_pixel-art-asteroid-sprite-hd-png-download/
 
