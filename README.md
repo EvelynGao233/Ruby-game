@@ -26,11 +26,11 @@ The build file contains an executable of the game.rb and the images in the asset
 
 # Reference:
 
-The first part is followed by the video provided by the Mario Visic: 
+The first part is followed by the video provided by Mario Visic: 
 
 https://www.youtube.com/watch?v=sWsD_r_DQ4c&t=1420s
 
-In this video, I lerned the basic of ruby2D and how to construct the user screen and the movement of the images and objects like stars.
+In this video, I learned the basics of ruby2D and how to construct the user screen, and the movement of the images and objects like stars.
 
 The image in the game are from: 
 
