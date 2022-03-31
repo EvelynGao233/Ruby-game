@@ -7,12 +7,15 @@ The game is build in ruby2D. It mainly contains three screens.
 Start Screen:
 
 The starts screen shows the image of the rocket and the name of the game.
+
 By clicking the screen, the user can get into the next screen to play the game.
 
 Game Screen:
 
 The user can use keyboard button to control the rocket to go up, down, left and right.
+
 The user need to avoid the asteriods and survive.
+
 When the user collides with the asteriods, the "Died" screen will show up.
 
 # file
