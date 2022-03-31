@@ -26,7 +26,7 @@ The build file contains an executable of the game.rb and the images in the asset
 
 # Reference:
 
-The front part are followed by the video provided by the Mario Visic: 
+The first part is followed by the video provided by the Mario Visic: 
 
 https://www.youtube.com/watch?v=sWsD_r_DQ4c&t=1420s
 
